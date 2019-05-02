@@ -1,0 +1,20 @@
+<?php 
+$colors=array(
+    'Color'=>'Blue',
+    'Origin'=>'UK',
+    'Shade'=>'Excellent'
+);
+
+$colorstwo=array(
+    'Color'=>'Blue',
+    'Origin'=>'UK',
+    'Shade'=>'Good'
+);
+$colorstwo=array(
+    'Color'=>'Blue',
+    'Origin'=>'Uk',
+    'Shade'=>'Average'
+);
+$allarray=array_intersect($colors,$colorstwo,$colorstwo);
+print_r($allarray);
+?>
