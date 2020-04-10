@@ -1,8 +1,0 @@
-<?php 
-$name="Tanzim";
-
-
-
-
-
-?>
