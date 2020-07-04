@@ -33,7 +33,8 @@ if (isset($_POST['submit'])) {
                     <label for="" class="text-white ">Enter your Username</label>
 
 
-                    <input type="text" name="username" id="" class="text-gray-700 rounded w-full  py-1 border-solid border-2" placeholder="Enter your username" value="<?php echo $_POST['username'] ?? '' ?>">
+<input type="text" name="username" id="" class="text-gray-700 rounded w-full  py-1 border-solid border-2" placeholder="Enter your username" 
+       value="<?php echo $_POST['username'] ?? '' ?>">
                 </div>
                 <div class="errors bg-red-400 text-white text-center">
 
@@ -45,7 +46,8 @@ if (isset($_POST['submit'])) {
 
                     <label for="" class="text-white ">Enter your Email</label>
 
-                    <input type="email" name="email" id="" class="text-gray-700 rounded w-full  py-1 border-solid border-2" placeholder="Enter your email" value="<?php echo $_POST['email'] ?? '' ?>">
+  <input type="email" name="email" id="" class="text-gray-700 rounded w-full  py-1 border-solid border-2" placeholder="Enter your email" 
+         value="<?php echo $_POST['email'] ?? '' ?>">
                 </div>
                 <div class="errors bg-red-400 text-white text-center">
                     <?php
