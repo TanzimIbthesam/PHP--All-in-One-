@@ -1,0 +1,116 @@
+1.Echo and print Statement 
+2.variables 
+3. data types
+4.Comments
+5.Constant
+6.Arithmatic
+7.Comparison Operators
+8.If statement 
+9.Logical Operator 
+10.If else statement 
+11.Switch statement 
+12.Ternery operator 
+13.String Operator
+14.While Loop 
+15.Do while loop
+16.For Loop
+17. Nested Loop 
+18.Continue n Break
+19. Go to Statement 
+
+20.Php Functions
+21. Php function with parameters 
+22.Returning by Value 
+23. Function  arguement by reference
+24.  Php Varible functions
+25.Php recursive functions
+26.Global variable 
+27.Local variable
+28.Array
+29.Assosiative Array
+30.Foreach loop
+31.Multi Dimensional array
+32. Multi Dimensional Assosiative Array
+33.Foreachloop with list 
+34.Array count n sizeof
+35.in_array n array_search
+36. array_replace and array_recursive 
+37.array_pop and array_push 
+38. array_shift and array_unshift
+39.array_merge and array_combine 
+40.array_slice and array_splice 
+41.Array Intresect 
+42. Array Diff and Udif 
+43.array_values n array_unique 
+44.array_column and array_chunk
+45.array_flip and array_interchange case
+46.array-sum and array_product 
+47.array_rand and array_shuffle function 
+48.array_fill and array_fill_keys
+49.array-walk and array_walk_recursive 
+50.array_map function 
+51.array_filter 
+52.array_reduce
+53.array_sort
+54.array_traversing
+55.Array extract
+56.array compact 
+57.Array range
+58.Explode and implode 
+59.Str_split and Chunk_split
+60.String lowercase and String uppercase 
+61. String length and count functions 
+62.string search and count functions
+63.String search functions 
+64.String substr functions 
+65.String replace functions 
+66.string compare functions 
+67.String_strev and string shuffle 
+68.str_pad and str_repeat
+69.String trim and chop functions 
+70.Addlashes and stiplashes 
+71.md5 and sha1 function
+72. convert_uuencode 
+73.bin2hex and hex2bin
+74.Chr and ord
+75.strip_tags and Wordwrap
+76.Math min and max
+77. Math ceil floor Round Abs 
+78.Intdiv,sqrdiv and functions 
+79.Math rand Md-rand  lcg_value
+80.Php date function 
+81.Php time tutorial 
+82.PHP Mktime and Gmmktime
+83.PHP date_create and date_format 
+84.Checkdate and date_diff
+85.date_add date_sub date_modify
+86.PHP getdate, Localtime,Gettimeofday
+87. PHP date_parse 
+88.Strotime,strftime,Gmstrftime
+89.date_time_set
+90.Php TimeZone functions
+91.Include and require functions
+92.include_once and required_once functions 
+93.Include ad require statement 
+94.$_GET $_POST $_REQUEST 
+95.$_SERVER 
+96.PHP Cookie 
+97.Session variable 
+98.PHP FILES VARIABLE and Move_uploaded_file
+99.Php die and exit
+100.preg_match strtolower file_exists Is string
+101.trim,sprintf,get_class,is_object,Is_null,is_numeric
+102.https://www.exakat.io/en/top-100-php-functions/
+
+PHP OOP 
+1.Basic Class
+2.Encapsulation 
+3. Inheritance
+4. Class Autoloading
+5.Static keyword and scope Resolution Operator 
+6.Abstraction
+7. Interface 
+8.PolyMorphism 
+9.Traits 
+10.Anonymopus classess
+
