@@ -112,5 +112,5 @@ PHP OOP
 7. Interface 
 8.PolyMorphism 
 9.Traits 
-10.Anonymopus classes
+10.Anonymopus classess
 
