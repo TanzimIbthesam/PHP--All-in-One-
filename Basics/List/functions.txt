@@ -1,0 +1,12 @@
+1.Echo and Print
+2.Variable
+3.data types
+4.Comments
+5.Constant Variables
+6.Arithmatic operators 
+7.Assignment Opoerators
+8.Comparison Operators 
+9.If statement 
+10.Logical Operators
+11.If else statement 
+
