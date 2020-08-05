@@ -1,0 +1,23 @@
+1.Class and Object
+get_class
+get_class-vars
+2.Constructors
+3.Encapsulation
+4.Inheritance
+5.StaticFunction&ScopeResolutionOperator
+6.AbstractClasses
+OverLoading
+Magic Method
+Final keyword 
+Object cloning
+Deep copy-Shallow copy 
+Late Static Binding
+Object and reference 
+Object Iteration
+Object serialization 
+Method chaining
+Dependancy Injection 
+Typed class property 
+Type hinting,co variance,contravarinace
+Tighly cuples Loosely Coupled 
+Composition over in heritance

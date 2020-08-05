@@ -1,9 +1,0 @@
-1.Class and Object
-get_class
-get_class-vars
-2.Constructors
-3.Encapsulation
-4.Inheritance
-5.StaticFunction&ScopeResolutionOperator
-6.AbstractClasses
-7.
